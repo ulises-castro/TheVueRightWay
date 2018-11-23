@@ -3,4 +3,4 @@
 ### Well, first of all,
 #### You must:
 - Check out this page: [The Javascript Right Way](http://jstherightway.org/) and immerse yourself into its concepts.
-- You have to use JSLINT; I rather use Airbnb Javascript Style Guide.
+- I recommend you, ALWAYS use JSLINT in your Vue projects and choise [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
