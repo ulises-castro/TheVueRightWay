@@ -7,4 +7,4 @@
 - I recommend you, ALWAYS use JSLINT in your Vue projects and choise [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
 
 #### Recomendations
-- If you would like to toggle buttons use, v-show instead of v-if. Why? [About v-show and v-if | Differences](https://vuejs.org/v2/guide/conditional.html#v-show)
+- If you would like to toggle buttons use, v-show instead of v-if. Why? [V-IF VS V-SHOW](https://vuejs.org/v2/guide/conditional.html#v-if-vs-v-show)
