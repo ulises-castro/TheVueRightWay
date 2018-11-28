@@ -2,6 +2,8 @@
 
 ### Well, first of all,
 #### You must:
+- Always use an scalable structure [How to structure a vuejs project](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb)
+
 - Check out this page: [The Javascript Right Way](http://jstherightway.org/) and immerse yourself into its concepts.
 
 - I recommend you, ALWAYS use JSLINT in your Vue projects and choise [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
