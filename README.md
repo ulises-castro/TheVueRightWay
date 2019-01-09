@@ -2,7 +2,9 @@
 
 ### Well, first of all,
 #### You must:
-- Always use an scalable structure [How to structure a vuejs project](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb)
+- Always use an scalable structure 
+  -[How to structure a vuejs project](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb)
+  - [Reusable, Scalable and Easy to organize] (https://medium.com/hong-kong-tech/reusable-scalable-and-easy-to-organize-project-using-vuejs-part-2-c7e82044d7fc)
 
 - Check out this page: [The Javascript Right Way](http://jstherightway.org/) and immerse yourself into its concepts.
 
